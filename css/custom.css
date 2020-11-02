@@ -1,0 +1,38 @@
+.required{
+    color:red;
+}
+#linktable{
+    width: 100%;
+}
+#linktable td{
+    padding: 1%;
+    font-size: larger;
+}
+#usertable{
+    width: 100%;
+    text-align: center;
+}
+#usertable td{
+    padding: 1%;
+    font-size: larger;
+}
+
+.url_copy{
+    margin-bottom: 0rem;
+}
+.usermanageedit{
+    font-size: 20px;
+    color: #00aaff;
+}
+.usermanagedelete{
+    font-size: 20px;
+    color: #ff0059;
+}
+.usermanagepassword{
+    font-size: 20px;
+    color:#0011ff;
+}
+
+.logo{
+    opacity: .8
+}
